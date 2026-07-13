@@ -1,6 +1,5 @@
-package io.github.felipe_damasceno19.app.security;
+package io.github.felipe_damasceno19.app.users.internal;
 
-import io.github.felipe_damasceno19.app.users.internal.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;
